@@ -1,6 +1,6 @@
 # Analisis_Numerico_Ciclo1-18_Proyecto
 ## Ejecutar archivo Index.ipynb
-## Github del pryecto: https://github.com/DouglasHdezT/Analisis_Numerico_Ciclo1-18_Proyecto
+## Git del pryecto: https://github.com/DouglasHdezT/Analisis_Numerico_Ciclo1-18_Proyecto
 ## Integrantes:
 ### Gomar Aguilar, Katherine Ivania;			00011616
 ### Hernández Torres, Douglas Antonio		00004516
